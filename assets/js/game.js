@@ -130,11 +130,3 @@ var endGame = function() {
 
 //start the game when the page loads
 startGame();
-
-
-
-//after defeat a robots or after die, window.prompt "would like to replay?"
-//after defeat robot or after skip battle,  store window.prompt
-
-//endGame()
-//shop()
